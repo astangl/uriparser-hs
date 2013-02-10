@@ -1,0 +1,8 @@
+URI parsing module, written in Haskell, with unit tests.
+
+Written in 2010 as part of a larger project I started working on on the side.
+When I discovered the existing uri project on Hackage, I sent this to the
+maintainer of that, and he used parts of this, however I think there are some
+good bits in here that didn't make it into uri. I shelved my larger project
+when we had a baby in 2010, but am making this available in case somebody
+finds it useful.
